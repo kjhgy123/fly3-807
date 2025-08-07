@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/kjhgy123/argo-fly3:latest
+          tags: ghcr.io/kjhgy123/aergo-fly3:latest
